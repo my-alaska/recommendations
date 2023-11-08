@@ -1,10 +1,7 @@
 .ipynb_checkpoints
 /.idea/
 __pycache__/
-<<<<<<< HEAD
 segmentation/socialmediadata-beeradvocate
+news/MINDsmall_train
 *.tsv
 *.vec
-=======
-segmentation/socialmediadata-beeradvocate
->>>>>>> e8a8c2549a30e9659e443073e0965ad19045a232
