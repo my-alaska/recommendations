@@ -5,3 +5,4 @@ segmentation/socialmediadata-beeradvocate
 news/MINDsmall_train
 *.tsv
 *.vec
+*.csv
