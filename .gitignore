@@ -6,3 +6,4 @@ news/MINDsmall_train
 *.tsv
 *.vec
 *.csv
+*.txt
